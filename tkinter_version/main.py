@@ -694,7 +694,7 @@ def show_shalini_profile():
     add_link(
         contact,
         "Email",
-        "https://mail.google.com/mail/u/0/#inbox"
+        "mshalini3111@gmail.com"
     )
 
     add_link(
@@ -933,7 +933,7 @@ def show_rehan_profile():
     add_link(
         contact,
         "GitHub",
-        "https://github.com/"
+        "https://github.com/rehanx750-cyber"
     )
 
     add_link(
