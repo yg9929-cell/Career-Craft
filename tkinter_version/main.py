@@ -694,7 +694,7 @@ def show_shalini_profile():
     add_link(
         contact,
         "Email",
-        "mshalini3111@gmail.com"
+        "https://mail.google.com/mail/?view=cm&fs=1&to=mshalini3111@gmail.com"
     )
 
     add_link(
